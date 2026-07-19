@@ -15,6 +15,20 @@ The project answers these questions:
 5. How does charging infrastructure compare with BEV demand by state?
 6. Is the rollout shifting toward high-power charging over time?
 
+## Dashboard Preview
+
+### State Strategy Matrix
+[State Strategy Matrix](assets/state_strategy_matrix.png)
+
+### Executive Overview
+[Executive Overview](assets/executive_overview.png)
+
+### Operator Strategy
+[Operator Strategy](assets/operator_strategy.png)
+
+### Rollout Trend
+[Rollout Trend](assets/rollout_trend.png)
+
 ## Data Sources
 
 - Bundesnetzagentur charging station register
